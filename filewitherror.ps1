@@ -1,1 +1,1 @@
-write-oput("fix me")
+write-output("fix me")
